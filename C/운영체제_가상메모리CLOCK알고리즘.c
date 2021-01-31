@@ -1,3 +1,4 @@
+//운영체제 가상 메모리 Clock 알고리즘
 //input:  memory size, reference string
 //output : page fault count
 		//disk write count

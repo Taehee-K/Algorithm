@@ -1,3 +1,5 @@
+//[백준 1916/C++] 최소비용
+
 #define _CRT_SECURE_NO_WARNINGS
 #include<cstdio>
 using namespace std;

@@ -1,3 +1,5 @@
+//[백준 1932/C] 정수삼각형
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 

@@ -1,3 +1,5 @@
+//[백준 11053/C] 최장증가수열
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 

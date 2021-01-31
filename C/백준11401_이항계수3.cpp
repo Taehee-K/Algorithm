@@ -1,3 +1,5 @@
+//[백준 11401/C++] 이항계수3 
+
 #include <iostream>
 using namespace std;
 
