@@ -1,5 +1,6 @@
 #정올 1086
 #성적 관리 프로그램
+#http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=366&sca=99
 
 #해당 과목의 점수(0~100)입력
 #입력 값 해당 범위 만족하지 않을 경우 그 점수만 다시 입력받음
