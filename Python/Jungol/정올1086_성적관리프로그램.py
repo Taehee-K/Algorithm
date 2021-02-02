@@ -19,7 +19,7 @@ maximum = 0
 minimum = 100
 #점수 정수형으로 변환
 for i in range(len(grade)):
-grade[i] = int(grade[i])
+    grade[i] = int(grade[i])
 total+= grade[i]
 if(maximum<grade[i]): maximum = grade[i]
 if(minimum>grade[i]): minimum = grade[i]
@@ -37,13 +37,17 @@ print("MIN :", minimum)
 ##print()
 
 for i in range(10):
-print("%3d" %(100-10*i), end = '  ')
-for j in range(10):
-if (j<len(grade) and grade[j]>=(100-10*i)): print(' * ', end = ' ')
-elif (j==len(grade) and avg>=(100-10*i)): print(" * ", end = ' ')
-elif (j==len(grade)+1 and maximum>=(100-10*i)): print(" * ", end = ' ')
-elif (j==len(grade)+2 and minimum>=(100-10*i)): print(" * ", end = ' ')     
-else: print('   ', end = ' ')
-print()
+    print("%3d" %(100-10*i), end = '  ')
+    for j in range(10):
+        if (j<len(grade) and grade[j]>=(100-10*i)): print(' * ', end = ' ')
+        elif (j==len(grade) and avg>=(100-10*i)): 
+            print(" * ", end = ' ')
+        elif (j==len(grade)+1 and maximum>=(100-10*i)): 
+            print(" * ", end = ' ')
+        elif (j==len(grade)+2 and minimum>=(100-10*i)): 
+            print(" * ", end = ' ')     
+        else: 
+            print('   ', end = ' ')
+    print()
 print("      A   B   C   D   E   F   G   H   I   J")
     
