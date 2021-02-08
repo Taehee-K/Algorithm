@@ -7,3 +7,5 @@ FROM ANIMAL_OUTS OUTS
 WHERE ANIMAL_ID NOT IN (SELECT INS.ANIMAL_ID
                         FROM ANIMAL_INS AS INS)
 ORDER BY OUTS.ANIMAL_ID
+
+-- 데이터베이스, SQL을 너무 많이 까먹어서 생각보다 오래 걸린 문제..
