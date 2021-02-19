@@ -31,11 +31,6 @@ print("AVG :", avg)
 print("MAX :", maximum)
 print("MIN :", minimum)
 
-##for i in range(len(grade)):
-##    grade[i] = (grade[i]//10)*10
-##    print(grade[i], end = ' ')
-##print()
-
 for i in range(10):
     print("%3d" %(100-10*i), end = '  ')
     for j in range(10):
