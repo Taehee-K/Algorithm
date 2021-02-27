@@ -1,5 +1,5 @@
 # [정올 153/Python] 배열1 - 형성평가4
-# http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=52&sca=1090
+# http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=53&sca=1090
 
 num = list(map(int, input().split()))
 
