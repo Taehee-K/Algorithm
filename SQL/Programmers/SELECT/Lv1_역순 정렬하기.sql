@@ -1,4 +1,4 @@
--- [프로그래머스 코딩테스트/SQL] 역순 정렬하기
+-- [프로그래머스 Lv1/SQL] 역순 정렬하기
 -- https://programmers.co.kr/learn/courses/30/lessons/59035
 
 SELECT NAME, DATETIME
