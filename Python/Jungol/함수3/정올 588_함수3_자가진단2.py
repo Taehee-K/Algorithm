@@ -2,8 +2,9 @@
 # http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=225&sca=10d0
 
 def Recursive(n):
-    for i in range(n):
-        print(n-i, end = " ")
+    if n>0:
+        print(n, end = " ")
+        Recursive(n-1)
 
 n = int(input())
 Recursive(n)
