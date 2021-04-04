@@ -6,7 +6,7 @@ def solution(a, b):
     if a>b: a, b = b, a
 
     total = 0
-    for i in range(a, b+1): 
+    for i in range(a, b+1): #  a와 b 사이에 속한 모든 정수의 합 구하기
         total+=i
     # sum(range(a, b+1)) 로 sum() 함수 통해 해결 가능
 
