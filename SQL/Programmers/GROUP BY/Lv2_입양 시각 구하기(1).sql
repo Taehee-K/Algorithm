@@ -1,0 +1,10 @@
+-- [프로그래머스 Lv2/SQL] 입양 시각 구하기(1)
+-- https://programmers.co.kr/learn/courses/30/lessons/59412
+
+SELECT HOUR(DATETIME) AS HOUR, COUNT(*) as COUNT
+FROM ANIMAL_OUTS
+GROUP BY HOUR 
+HAVING HOUR BETWEEN 9 AND 20
+ORDER BY HOUR
+-- HOUR(DATETIME) 
+-- BETWEEN A AND B
