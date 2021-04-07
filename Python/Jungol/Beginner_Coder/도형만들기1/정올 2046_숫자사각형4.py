@@ -3,10 +3,6 @@
 
 n, m = map(int, input().split())
 
-# base 숫자사각형 생성
-num = [[(j+1)+(n)*(i) for j in range(n)]for i in range(n)] 
-
-
 for i in range(n):
     for j in range(n):
         if m==1:    # 종류 1번
