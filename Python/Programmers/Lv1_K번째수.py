@@ -7,4 +7,4 @@ def solution(array, commands):
         answer.append(sorted(array[commands[i][0]-1:commands[i][1]])[commands[i][2]-1])
     return answer
 
-# i,j,k = command 식으로 i, j, k를 따로 입력했으면 코드가 조금 더 가독성 있었을 것 같다
+# i,j,k = command 식으로 i,j,k를 따로 입력했으면 코드가 조금 더 가독성 있었을 것 같다
