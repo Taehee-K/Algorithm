@@ -1,0 +1,10 @@
+-- [프로그래머스 Lv3/SQL] 오랜 기간 보호한 동물(2)
+-- https://programmers.co.kr/learn/courses/30/lessons/59411
+
+SELECT OUTS.ANIMAL_ID, OUTS.NAME 
+FROM ANIMAL_INS AS INS, ANIMAL_OUTS AS OUTS
+WHERE INS.ANIMAL_ID = OUTS.ANIMAL_ID
+ORDER BY (OUTS.DATETIME - INS.DATETIME) DESC
+LIMIT 2
+
+-- LIMIT 사용해 상위 2개로 출력값 제한
