@@ -1,0 +1,14 @@
+-- [프로그래머스 Lv4/SQL] 입양 시각 구하기(2)
+-- https://programmers.co.kr/learn/courses/30/lessons/59413
+
+-- 0~23까지 데이터 갖는 가상테이블 생성
+WITH RECURSIVE TIME AS( 
+    SELECT 0 AS HOUR
+    UNION ALL
+    SELECT HOUR+1 FROM TIME WHERE HOUR<23
+)
+
+SELECT HOUR, COUNT(DATETIME) AS 'COUNT'
+FROM TIME LEFT OUTER JOIN ANIMAL_OUTS
+    ON HOUR = HOUR(DATETIME)
+GROUP BY HOUR
