@@ -4,7 +4,7 @@
 n = int(input())    # 흰 돌의 개수
 board = [[0]*19 for i in range(19)] # 바둑판 19x19
 
-for i in range(n):  # 좌표
+for i in range(n):  
     x, y = map(int, input().split()) # x,y 좌표
     board[x-1][y-1] = 1
 
