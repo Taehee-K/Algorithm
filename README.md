@@ -4,6 +4,6 @@
 
 | Language | Online Judge |
 | :------- | :----------- |
-| [C/C++](https://github.com/Taehee-K/Algorithm/tree/main/C%2C%20C%2B%2B) | BaekJoon |
-| [Python](https://github.com/Taehee-K/Algorithm/tree/main/Python) | CodeUp<br>Jungol<br>Programmers |
-| [SQL](https://github.com/Taehee-K/Algorithm/tree/main/SQL) | Programmers | 
+| [C/C++](https://github.com/Taehee-K/Algorithm/tree/main/C%2C%20C%2B%2B) | [BaekJoon](https://github.com/Taehee-K/Algorithm/tree/main/C%2C%20C%2B%2B#baekjoon) |
+| [Python](https://github.com/Taehee-K/Algorithm/tree/main/Python) | [CodeUp](https://github.com/Taehee-K/Algorithm/tree/main/Python#codeup)<br>[Jungol](https://github.com/Taehee-K/Algorithm/tree/main/Python#jungol)<br>[Programmers](https://github.com/Taehee-K/Algorithm/tree/main/Python#programmers) |
+| [SQL](https://github.com/Taehee-K/Algorithm/tree/main/SQL) | [Programmers](https://github.com/Taehee-K/Algorithm/tree/main/SQL#programmers) | 
