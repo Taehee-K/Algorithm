@@ -1,5 +1,5 @@
 # [프로그래머스 Lv1/Python] 내적
-# https://programmers.co.kr/learn/courses/30/lessons/70128?language=python3
+# https://programmers.co.kr/learn/courses/30/lessons/70128
 
 def solution(a, b):
     answer = 0

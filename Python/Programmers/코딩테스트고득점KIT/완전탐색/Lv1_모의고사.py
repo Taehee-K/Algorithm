@@ -1,4 +1,4 @@
-# [프로그래머스 Lv1/Python] 모의고사
+# [프로그래머스 Lv1/Python] 완전탐색 - 모의고사
 # https://programmers.co.kr/learn/courses/30/lessons/42840
 
 def solution(answers):

@@ -1,5 +1,5 @@
 # [프로그래머스 Lv1/Python] 두 개 뽑아서 더하기
-# https://programmers.co.kr/learn/courses/30/lessons/68644?language=python3
+# https://programmers.co.kr/learn/courses/30/lessons/68644
 
 def solution(numbers):
     answer = [] # answer 담을 list
