@@ -1,4 +1,4 @@
-# [코드업 6095/Python] 종합 - 바둑판에 흰 돌 놓기
+# [코드업 6095/Python] 리스트 - 바둑판에 흰 돌 놓기
 # https://codeup.kr/problem.php?id=6095
 
 n = int(input())    # 흰 돌의 개수

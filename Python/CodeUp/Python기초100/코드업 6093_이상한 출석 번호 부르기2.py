@@ -1,4 +1,4 @@
-# [코드업 6093/Python] 종합 - 이상한 출석 번호 부르기2
+# [코드업 6093/Python] 리스트 - 이상한 출석 번호 부르기2
 # https://codeup.kr/problem.php?id=6093
 
 n = int(input())                        # 출석 번호 부른 횟수
