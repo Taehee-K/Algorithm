@@ -1,7 +1,7 @@
 # [프로그래머스 Lv2/Python] 짝지어 제거하기
 # https://programmers.co.kr/learn/courses/30/lessons/12973
 
-# 큐 사용한 풀이 
+# 스택 사용한 풀이 
 from collections import deque 
 def solution(s):
     stack = []  # 문자 하나씩 넣었다 뺄 스택
