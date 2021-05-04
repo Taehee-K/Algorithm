@@ -3,7 +3,7 @@
 ## CodeUp
 ### Python 기초 100제
 
-| Number | Problem | Code | Number | Problem | Code |
+| # | Problem | Code | # | Problem | Code |
 | :----: | :------ | :--: | :----: | :------ | :--: |
 | 6001 | [[기초-출력] 출력하기01](https://codeup.kr/problem.php?id=6001) | [O](https://github.com/Taehee-K/Algorithm/blob/main/Python/CodeUp/Python%EA%B8%B0%EC%B4%88100/%EC%BD%94%EB%93%9C%EC%97%85%206001_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B001.py) | 6050 | [[기초-비교연산] 정수 2개 입력받아 비교하기3](https://codeup.kr/problem.php?id=6050) | [O](https://github.com/Taehee-K/Algorithm/blob/main/Python/CodeUp/Python%EA%B8%B0%EC%B4%88100/%EC%BD%94%EB%93%9C%EC%97%85%206050_%EC%A0%95%EC%88%98%202%EA%B0%9C%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EC%95%84%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B03.py) |
 | 6002 | [[기초-출력] 출력하기02](https://codeup.kr/problem.php?id=6002) | [O](https://github.com/Taehee-K/Algorithm/blob/main/Python/CodeUp/Python%EA%B8%B0%EC%B4%88100/%EC%BD%94%EB%93%9C%EC%97%85%206002_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B002.py) | 6051 | [[기초-비교연산] 정수 2개 입력받아 비교하기4](https://codeup.kr/problem.php?id=6051) | [O](https://github.com/Taehee-K/Algorithm/blob/main/Python/CodeUp/Python%EA%B8%B0%EC%B4%88100/%EC%BD%94%EB%93%9C%EC%97%85%206051_%EC%A0%95%EC%88%98%202%EA%B0%9C%20%EC%9E%85%EB%A0%A5%EB%B0%9B%EC%95%84%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B04.py) |
@@ -59,7 +59,7 @@
 // Python 기초 100제 끝!
 
 ### 재귀함수
-| Number | Problem | Code | Number | Problem | Code |
+| # | Problem | Code | # | Problem | Code |
 | :----: | :------ | :--: | :----: | :------ | :--: |
 | 1901 | [1부터 n까지 출력하기](https://codeup.kr/problem.php?id=1901) | [O](https://github.com/Taehee-K/Algorithm/blob/main/Python/CodeUp/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/%EC%BD%94%EB%93%9C%EC%97%85%201901_1%EB%B6%80%ED%84%B0%20n%EA%B9%8C%EC%A7%80%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py) | 1928 | [우박수 (3n+1) (basic)](https://codeup.kr/problem.php?id=1928) | [O](https://github.com/Taehee-K/Algorithm/blob/main/Python/CodeUp/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/%EC%BD%94%EB%93%9C%EC%97%85%201928_%EC%9A%B0%EB%B0%95%EC%88%98(basic).py) |
 | 1902 | [1부터 n까지 역순으로 출력하기](https://codeup.kr/problem.php?id=1902) | [O](https://github.com/Taehee-K/Algorithm/blob/main/Python/CodeUp/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/%EC%BD%94%EB%93%9C%EC%97%85%201902_1%EB%B6%80%ED%84%B0%20n%EA%B9%8C%EC%A7%80%20%EC%97%AD%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py) | 1929 | [우박수 (3n+1) (reverse)](https://codeup.kr/problem.php?id=1929) | [O](https://github.com/Taehee-K/Algorithm/blob/main/Python/CodeUp/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/%EC%BD%94%EB%93%9C%EC%97%85%201929_%EC%9A%B0%EB%B0%95%EC%88%98(reverse).py) |
@@ -71,7 +71,7 @@
 | 1920 | [2진수 변환](https://codeup.kr/problem.php?id=1920) | [O](https://github.com/Taehee-K/Algorithm/blob/main/Python/CodeUp/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/%EC%BD%94%EB%93%9C%EC%97%85%201920_2%EC%A7%84%EC%88%98%20%EB%B3%80%ED%99%98.py) | 4564 | [계단오르기](https://codeup.kr/problem.php?id=4564) | []() |
 
 ### 탐색기반설계
-| Number | Problem | Code | Number | Problem | Code |
+| # | Problem | Code | # | Problem | Code |
 | :----: | :------ | :--: | :----: | :------ | :--: |
 | 2623 | [최대공약수 구하기](https://codeup.kr/problem.php?id=2623) | [O](https://github.com/Taehee-K/Algorithm/blob/main/Python/CodeUp/%ED%83%90%EC%83%89%EA%B8%B0%EB%B0%98%EC%84%A4%EA%B3%84/%EC%BD%94%EB%93%9C%EC%97%85%202623_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) |  | []() | []() |
 
@@ -79,7 +79,7 @@
 
 ## Jungol
 ### Language Coder
-| Category | Number | Problem | Code | Number | Problem | Code |
+| Category | # | Problem | Code | # | Problem | Code |
 | :------- | :----: | :------ | :--: | :----: | :------ | :--: |
 | [출력]() | 501<br>502<br>503<br>504<br>505<br>506<br>507<br>508 | [출력 - 자가진단1]()<br>[출력 - 자가진단2]()<br>[출력 - 자가진단3]()<br>[출력 - 자가진단4]()<br>[출력 - 자가진단5]()<br>[출력 - 자가진단6]()<br>[출력 - 자가진단7]()<br>[출력 - 자가진단8]() | [O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]() | 101<br>102<br>103<br>104<br>105 | [출력 - 형성평가1]()<br>[출력 - 형성평가2]()<br>[출력 - 형성평가3]()<br>[출력 - 형성평가4]()<br>[출력 - 형성평가5]()<br> | [O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]() |
 | [입력]() | 509<br>510<br>511<br>512<br>513<br>514<br>515<br>516<br>517<br> | [입력 - 자가진단1]()<br>[입력 - 자가진단2]()<br>[입력 - 자가진단3]()<br>[입력 - 자가진단4]()<br>[입력 - 자가진단5]()<br>[입력 - 자가진단6]()<br>[입력 - 자가진단7]()<br>[입력 - 자가진단8]()<br>[입력 - 자가진단9]()<br> | [O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]() | 106<br>107<br>108<br>109<br>110<br> | [입력 - 형성평가1]()<br>[입력 - 형성평가2]()<br>[입력 - 형성평가3]()<br>[입력 - 형성평가4]()<br>[입력 - 형성평가5]()<br> | [O]()<br>[O]()<br>[O]()<br>[O]()<br>[O]() |
@@ -99,7 +99,7 @@
 
 
 ### Beginner Coder
-| Category | Number | Problem | Code | Category | Number | Problem | Code |
+| Category | # | Problem | Code | Category | # | Problem | Code |
 | :------- | :----: | :------ | :--: | :------- | :----: | :------ | :--: |
 | [도형만들기1]() |  | []() | [O]() | []() |  | []() | []() |
 | [수학1]() |  | []() | [O]() | []() |  | []() | []() |
