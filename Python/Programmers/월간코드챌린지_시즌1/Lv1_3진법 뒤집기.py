@@ -8,8 +8,11 @@ def solution(n):
         trinary += str(n%3)
         n = n//3
     trinary += str(n)
+    
     # 10진법으로 표현하기
     decimal = 0
     for i in range(len(trinary)):
         decimal += int(trinary[len(trinary)-i-1])*(3**i)
-    return decimal
+    # decimal = int(int(trinary), 3) 으로 더 간편하게 해결 가능
+    return decimal      
+
